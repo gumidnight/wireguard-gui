@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+.venv/
+venv/
+env/
+
+# Go build artifacts
+daemon/wireguard-gui-daemon
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Packaging
+*.deb
+*.rpm
+*.tar.gz
+*.zip
+
+# Logs
+*.log

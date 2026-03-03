@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=WireGuard GUI Tray
+Comment=WireGuard VPN tray icon
+Exec=wireguard-gui-tray
+Icon=/usr/share/pixmaps/wireguard-tray.png
+Categories=Network;System;
+Keywords=wireguard;vpn;tray;
+StartupNotify=false
+Terminal=false
+X-GNOME-Autostart-enabled=true
+NoDisplay=true
