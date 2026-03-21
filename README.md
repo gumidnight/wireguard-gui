@@ -5,7 +5,11 @@ A native GTK4/Libadwaita desktop client for managing WireGuard VPN tunnels on Ub
 > Tested on **Ubuntu 22.04** and **Ubuntu 24.04** with GNOME.
 
 ---
-<a href="https://www.buymeacoffee.com/gumidnight"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=gumidnight&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/gumidnight">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&button_colour=5F7FFF&font_colour=ffffff&coffee_colour=FFDD00" />
+  </a>
+</p>
 
 ## Features
 
